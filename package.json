@@ -1,0 +1,27 @@
+{
+  "name": "smartcitizen",
+  "version": "0.0.2",
+  "description": "Allows you to post data to the Smart Citizen API http://developer.smartcitizen.me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Smart Citizen Team",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.13.0",
+    "request": "^2.72.0"
+  },
+  "directories": {
+    "example": "examples"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fablabbcn/smartcitizen-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fablabbcn/smartcitizen-node/issues"
+  },
+  "homepage": "https://github.com/fablabbcn/smartcitizen-node#readme"
+}
